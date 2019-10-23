@@ -1,0 +1,28 @@
+{
+  "name": "ts-prec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hertune/ts-prec.git"
+  },
+  "author": "joshberry <hertune@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/hertune/ts-prec/issues"
+  },
+  "homepage": "https://github.com/hertune/ts-prec#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "immer": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.6.4"
+  }
+}
