@@ -18,7 +18,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "immer": "^4.0.2"
+    "immer": "^9.0.6"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
